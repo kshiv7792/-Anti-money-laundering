@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AML Project Deployment</title>
+</head>
+<body>
+<style>
+ 
+
+p {
+  font-size: 15px;
+  color: rgb(165, 203, 204);
+  
+}
+    input[type=text], select {
+      width: 20%;
+      padding: 12px 20px;
+      margin: 4px 0;
+      display: inline-block;
+      border: 1px solid rgb(146, 193, 223);
+      border-radius: 2px;
+      
+    }
+    
+    input[type=submit] {
+      width: 15%;
+      background-color: #1f0122;
+      color: rgb(47, 222, 228);
+      padding: 14px 20px;
+      margin: 4px 0;
+      border: none;
+      border-radius: 2px;
+      cursor: pointer;
+    }
+    
+    input[type=submit]:hover {
+      background-color: #5033d3;
+    }
+    
+    
+    .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+        
+      h1 {text-align: center;
+        font-size: 20px;
+      }
+      
+     p {text-align: center;}
+     div {text-align: center;}
+     
+
+
+      </style>
+<body style="background-color:rgb(1, 23, 26);">
+  <img src="https://innodatatics.ai/assets/innologo.png" class="center">
+  <h1 style="color:rgb(240, 21, 94);"> Anti Money Laundering </h1>
+
+        <form action = "/predict" method = "post">
+        <p ><b>Step</b></p>
+        <p><input type ="text" name = "Step"/></P>
+        <p><b>Amount</b></p>
+        <p><input type ="text" name = "Amount"/></P>
+        <p><b>Old Originator Balance</b></p>
+        <p><input type ="text" name = "Old Originator Balance"/></P>
+        <p><b>New Originator Balance</b></p>
+        <p><input type ="text" name = "New Originator Balance"/></P>
+        <p><b>Old Destination Balance</b></p>
+        <p><input type ="text" name = "Old Destination Balance"/></P>
+        <p><b> New Destination Balance</b></p>
+        <p><input type ="text" name = " New Destination Balance"/></P>
+        
+        
+        <input type = 'Submit'>
+    </form>
+    <hr>
+    {% if predict %}
+        Predicted Transaction: <b>{{predict}}<b>.
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,501 @@
+Retailer_ID,Inventory_Frequency,Reason_Unavailability,Customer_Loss_Percentage,Decline_in_Repeat_Customers,Offer_Alternatives,Interest_in_System
+R1,Rarely,Supply chain delays,<10%,No,"Yes, provide an option to order",No
+R2,Monthly,Supply chain delays,<10%,Yes,"Yes, provide an option to order",Yes
+R3,Rarely,Supply chain delays,26-50%,No,"Yes, suggest similar models",Yes
+R4,Weekly,Manufacturer limitations,26-50%,No,"Yes, provide an option to order",No
+R5,Daily,Manufacturer limitations,10-25%,Yes,No,No
+R6,Weekly,Insufficient demand forecasting,<10%,Yes,No,Yes
+R7,Weekly,Other,<10%,No,"Yes, provide an option to order",Yes
+R8,Rarely,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R9,Weekly,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",Yes
+R10,Weekly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R11,Weekly,Insufficient demand forecasting,10-25%,Yes,"Yes, provide an option to order",No
+R12,Daily,Insufficient demand forecasting,26-50%,Yes,"Yes, provide an option to order",Yes
+R13,Monthly,Insufficient demand forecasting,26-50%,No,"Yes, provide an option to order",Yes
+R14,Daily,Supply chain delays,26-50%,Yes,No,Yes
+R15,Daily,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R16,Daily,Insufficient demand forecasting,<10%,Yes,No,Yes
+R17,Daily,Other,10-25%,Yes,"Yes, provide an option to order",Yes
+R18,Monthly,Insufficient demand forecasting,<10%,Yes,"Yes, suggest similar models",Yes
+R19,Weekly,Supply chain delays,10-25%,No,No,No
+R20,Weekly,Other,<10%,No,"Yes, provide an option to order",Yes
+R21,Daily,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R22,Weekly,Supply chain delays,26-50%,No,"Yes, provide an option to order",Yes
+R23,Monthly,Manufacturer limitations,>50%,No,"Yes, suggest similar models",Yes
+R24,Daily,Insufficient demand forecasting,<10%,No,"Yes, suggest similar models",Yes
+R25,Monthly,Insufficient demand forecasting,26-50%,Yes,"Yes, suggest similar models",No
+R26,Daily,Supply chain delays,>50%,Yes,No,Yes
+R27,Monthly,Other,26-50%,No,No,No
+R28,Weekly,Supply chain delays,10-25%,Yes,No,Yes
+R29,Daily,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R30,Weekly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R31,Weekly,Insufficient demand forecasting,26-50%,No,"Yes, provide an option to order",Yes
+R32,Daily,Supply chain delays,<10%,Yes,"Yes, provide an option to order",Yes
+R33,Daily,Other,<10%,Yes,"Yes, provide an option to order",No
+R34,Rarely,Supply chain delays,<10%,No,"Yes, suggest similar models",Yes
+R35,Monthly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R36,Rarely,Manufacturer limitations,10-25%,No,"Yes, suggest similar models",Yes
+R37,Daily,Manufacturer limitations,26-50%,No,"Yes, suggest similar models",Yes
+R38,Monthly,Supply chain delays,10-25%,No,"Yes, provide an option to order",Yes
+R39,Weekly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R40,Daily,Supply chain delays,<10%,No,"Yes, provide an option to order",Yes
+R41,Monthly,Other,10-25%,No,"Yes, suggest similar models",Yes
+R42,Monthly,Supply chain delays,10-25%,No,No,Yes
+R43,Monthly,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R44,Weekly,Supply chain delays,>50%,Yes,"Yes, provide an option to order",No
+R45,Weekly,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R46,Monthly,Manufacturer limitations,<10%,Yes,No,Yes
+R47,Monthly,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R48,Weekly,Insufficient demand forecasting,<10%,Yes,"Yes, suggest similar models",Yes
+R49,Monthly,Supply chain delays,26-50%,No,"Yes, provide an option to order",Yes
+R50,Daily,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R51,Daily,Supply chain delays,<10%,Yes,"Yes, provide an option to order",Yes
+R52,Weekly,Other,10-25%,No,"Yes, suggest similar models",Yes
+R53,Weekly,Manufacturer limitations,10-25%,No,"Yes, suggest similar models",Yes
+R54,Weekly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R55,Rarely,Insufficient demand forecasting,>50%,Yes,No,Yes
+R56,Weekly,Other,10-25%,Yes,"Yes, provide an option to order",Yes
+R57,Daily,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R58,Daily,Insufficient demand forecasting,10-25%,Yes,No,Yes
+R59,Daily,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",Yes
+R60,Monthly,Insufficient demand forecasting,10-25%,Yes,"Yes, provide an option to order",Yes
+R61,Weekly,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",No
+R62,Weekly,Supply chain delays,<10%,Yes,"Yes, provide an option to order",Yes
+R63,Monthly,Other,26-50%,Yes,"Yes, suggest similar models",Yes
+R64,Weekly,Other,26-50%,Yes,"Yes, suggest similar models",No
+R65,Weekly,Insufficient demand forecasting,10-25%,Yes,No,Yes
+R66,Daily,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R67,Weekly,Manufacturer limitations,<10%,No,"Yes, suggest similar models",Yes
+R68,Daily,Manufacturer limitations,10-25%,No,"Yes, provide an option to order",No
+R69,Daily,Supply chain delays,26-50%,No,"Yes, provide an option to order",Yes
+R70,Daily,Supply chain delays,<10%,Yes,"Yes, provide an option to order",Yes
+R71,Daily,Manufacturer limitations,>50%,Yes,"Yes, suggest similar models",Yes
+R72,Daily,Manufacturer limitations,26-50%,No,"Yes, provide an option to order",Yes
+R73,Daily,Insufficient demand forecasting,26-50%,No,"Yes, provide an option to order",Yes
+R74,Weekly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",No
+R75,Monthly,Insufficient demand forecasting,10-25%,Yes,"Yes, provide an option to order",Yes
+R76,Weekly,Insufficient demand forecasting,26-50%,No,"Yes, suggest similar models",Yes
+R77,Daily,Manufacturer limitations,10-25%,Yes,No,Yes
+R78,Weekly,Insufficient demand forecasting,<10%,No,"Yes, suggest similar models",Yes
+R79,Weekly,Insufficient demand forecasting,10-25%,No,"Yes, provide an option to order",Yes
+R80,Daily,Other,<10%,Yes,No,Yes
+R81,Daily,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R82,Weekly,Manufacturer limitations,10-25%,No,No,Yes
+R83,Monthly,Manufacturer limitations,26-50%,Yes,"Yes, suggest similar models",Yes
+R84,Rarely,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R85,Weekly,Insufficient demand forecasting,26-50%,Yes,No,Yes
+R86,Daily,Supply chain delays,>50%,Yes,No,Yes
+R87,Weekly,Insufficient demand forecasting,<10%,No,"Yes, suggest similar models",No
+R88,Monthly,Manufacturer limitations,26-50%,Yes,"Yes, provide an option to order",Yes
+R89,Monthly,Supply chain delays,<10%,Yes,"Yes, provide an option to order",No
+R90,Daily,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",Yes
+R91,Weekly,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R92,Rarely,Manufacturer limitations,10-25%,No,No,No
+R93,Daily,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R94,Daily,Supply chain delays,>50%,No,No,Yes
+R95,Rarely,Supply chain delays,26-50%,No,"Yes, provide an option to order",Yes
+R96,Weekly,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",Yes
+R97,Monthly,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",No
+R98,Daily,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",Yes
+R99,Monthly,Manufacturer limitations,10-25%,No,No,Yes
+R100,Weekly,Other,10-25%,Yes,No,Yes
+R101,Rarely,Supply chain delays,10-25%,Yes,"Yes, provide an option to order",Yes
+R102,Rarely,Insufficient demand forecasting,<10%,Yes,"Yes, suggest similar models",Yes
+R103,Weekly,Other,>50%,Yes,No,Yes
+R104,Daily,Manufacturer limitations,<10%,No,No,Yes
+R105,Daily,Other,10-25%,Yes,No,Yes
+R106,Daily,Manufacturer limitations,26-50%,Yes,No,Yes
+R107,Weekly,Manufacturer limitations,26-50%,Yes,"Yes, suggest similar models",Yes
+R108,Weekly,Manufacturer limitations,>50%,Yes,"Yes, provide an option to order",Yes
+R109,Daily,Supply chain delays,>50%,No,"Yes, suggest similar models",No
+R110,Weekly,Supply chain delays,26-50%,No,"Yes, suggest similar models",Yes
+R111,Daily,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R112,Daily,Insufficient demand forecasting,26-50%,Yes,"Yes, suggest similar models",No
+R113,Weekly,Supply chain delays,<10%,No,"Yes, provide an option to order",Yes
+R114,Weekly,Supply chain delays,>50%,No,"Yes, provide an option to order",Yes
+R115,Daily,Manufacturer limitations,10-25%,Yes,No,Yes
+R116,Monthly,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",No
+R117,Weekly,Supply chain delays,10-25%,No,No,Yes
+R118,Monthly,Other,26-50%,Yes,"Yes, provide an option to order",Yes
+R119,Weekly,Supply chain delays,<10%,No,No,Yes
+R120,Rarely,Manufacturer limitations,10-25%,Yes,No,No
+R121,Weekly,Supply chain delays,10-25%,Yes,No,Yes
+R122,Daily,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R123,Daily,Supply chain delays,<10%,Yes,No,Yes
+R124,Daily,Insufficient demand forecasting,26-50%,Yes,"Yes, suggest similar models",No
+R125,Weekly,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",Yes
+R126,Monthly,Supply chain delays,10-25%,No,"Yes, suggest similar models",No
+R127,Daily,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R128,Daily,Other,10-25%,Yes,"Yes, provide an option to order",No
+R129,Daily,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R130,Weekly,Manufacturer limitations,10-25%,No,"Yes, provide an option to order",Yes
+R131,Daily,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R132,Weekly,Insufficient demand forecasting,<10%,Yes,"Yes, provide an option to order",Yes
+R133,Daily,Insufficient demand forecasting,<10%,No,"Yes, provide an option to order",No
+R134,Weekly,Insufficient demand forecasting,<10%,No,"Yes, provide an option to order",Yes
+R135,Weekly,Insufficient demand forecasting,<10%,Yes,"Yes, provide an option to order",Yes
+R136,Rarely,Supply chain delays,26-50%,Yes,No,Yes
+R137,Weekly,Insufficient demand forecasting,<10%,No,No,Yes
+R138,Weekly,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",No
+R139,Daily,Other,10-25%,No,No,Yes
+R140,Daily,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R141,Weekly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R142,Weekly,Manufacturer limitations,>50%,Yes,No,Yes
+R143,Weekly,Manufacturer limitations,<10%,No,"Yes, suggest similar models",No
+R144,Weekly,Insufficient demand forecasting,26-50%,Yes,No,Yes
+R145,Daily,Insufficient demand forecasting,26-50%,No,"Yes, suggest similar models",Yes
+R146,Monthly,Manufacturer limitations,10-25%,No,"Yes, suggest similar models",Yes
+R147,Weekly,Insufficient demand forecasting,10-25%,Yes,No,Yes
+R148,Weekly,Insufficient demand forecasting,10-25%,No,"Yes, suggest similar models",Yes
+R149,Rarely,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",No
+R150,Rarely,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",No
+R151,Daily,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R152,Rarely,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",Yes
+R153,Weekly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R154,Daily,Manufacturer limitations,<10%,No,"Yes, provide an option to order",Yes
+R155,Monthly,Insufficient demand forecasting,>50%,Yes,"Yes, provide an option to order",Yes
+R156,Rarely,Other,10-25%,No,"Yes, suggest similar models",Yes
+R157,Weekly,Manufacturer limitations,10-25%,No,"Yes, provide an option to order",No
+R158,Monthly,Manufacturer limitations,>50%,Yes,"Yes, provide an option to order",Yes
+R159,Daily,Manufacturer limitations,26-50%,No,"Yes, suggest similar models",Yes
+R160,Weekly,Other,<10%,Yes,"Yes, suggest similar models",Yes
+R161,Monthly,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R162,Monthly,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",Yes
+R163,Daily,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R164,Weekly,Supply chain delays,10-25%,Yes,No,Yes
+R165,Daily,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",Yes
+R166,Monthly,Supply chain delays,26-50%,Yes,No,Yes
+R167,Weekly,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R168,Daily,Insufficient demand forecasting,26-50%,Yes,No,No
+R169,Weekly,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",Yes
+R170,Monthly,Other,10-25%,No,No,Yes
+R171,Monthly,Manufacturer limitations,>50%,Yes,"Yes, provide an option to order",Yes
+R172,Weekly,Supply chain delays,10-25%,Yes,"Yes, provide an option to order",Yes
+R173,Daily,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R174,Weekly,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",No
+R175,Weekly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R176,Daily,Supply chain delays,10-25%,Yes,"Yes, provide an option to order",Yes
+R177,Daily,Insufficient demand forecasting,>50%,Yes,"Yes, suggest similar models",Yes
+R178,Weekly,Insufficient demand forecasting,10-25%,No,No,No
+R179,Weekly,Supply chain delays,<10%,Yes,"Yes, provide an option to order",Yes
+R180,Daily,Manufacturer limitations,<10%,No,"Yes, provide an option to order",No
+R181,Weekly,Insufficient demand forecasting,10-25%,No,"Yes, provide an option to order",Yes
+R182,Monthly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",No
+R183,Daily,Supply chain delays,<10%,No,"Yes, provide an option to order",Yes
+R184,Monthly,Insufficient demand forecasting,<10%,No,"Yes, provide an option to order",No
+R185,Monthly,Insufficient demand forecasting,10-25%,Yes,No,Yes
+R186,Weekly,Supply chain delays,26-50%,Yes,No,No
+R187,Weekly,Supply chain delays,10-25%,Yes,No,Yes
+R188,Weekly,Other,10-25%,No,"Yes, provide an option to order",No
+R189,Weekly,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R190,Daily,Insufficient demand forecasting,>50%,Yes,"Yes, suggest similar models",Yes
+R191,Weekly,Manufacturer limitations,<10%,No,"Yes, provide an option to order",Yes
+R192,Weekly,Insufficient demand forecasting,26-50%,Yes,"Yes, provide an option to order",Yes
+R193,Monthly,Other,10-25%,Yes,"Yes, suggest similar models",Yes
+R194,Weekly,Insufficient demand forecasting,26-50%,Yes,"Yes, suggest similar models",Yes
+R195,Daily,Supply chain delays,10-25%,Yes,"Yes, provide an option to order",No
+R196,Monthly,Other,10-25%,No,"Yes, suggest similar models",No
+R197,Rarely,Insufficient demand forecasting,26-50%,No,No,Yes
+R198,Weekly,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R199,Daily,Manufacturer limitations,26-50%,Yes,"Yes, provide an option to order",Yes
+R200,Daily,Manufacturer limitations,<10%,No,"Yes, suggest similar models",Yes
+R201,Monthly,Supply chain delays,26-50%,Yes,No,Yes
+R202,Weekly,Other,10-25%,Yes,"Yes, provide an option to order",Yes
+R203,Monthly,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R204,Weekly,Insufficient demand forecasting,26-50%,No,"Yes, suggest similar models",Yes
+R205,Daily,Insufficient demand forecasting,<10%,No,"Yes, provide an option to order",No
+R206,Monthly,Manufacturer limitations,10-25%,No,"Yes, suggest similar models",Yes
+R207,Daily,Insufficient demand forecasting,10-25%,No,"Yes, provide an option to order",Yes
+R208,Weekly,Other,26-50%,Yes,"Yes, suggest similar models",Yes
+R209,Weekly,Supply chain delays,10-25%,Yes,No,Yes
+R210,Daily,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",Yes
+R211,Monthly,Insufficient demand forecasting,26-50%,No,"Yes, provide an option to order",Yes
+R212,Daily,Manufacturer limitations,26-50%,Yes,"Yes, suggest similar models",Yes
+R213,Daily,Other,10-25%,No,"Yes, suggest similar models",Yes
+R214,Daily,Manufacturer limitations,10-25%,No,"Yes, provide an option to order",Yes
+R215,Weekly,Manufacturer limitations,10-25%,No,"Yes, provide an option to order",Yes
+R216,Daily,Manufacturer limitations,<10%,Yes,No,Yes
+R217,Daily,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R218,Monthly,Manufacturer limitations,<10%,Yes,No,Yes
+R219,Daily,Manufacturer limitations,<10%,No,"Yes, suggest similar models",No
+R220,Weekly,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",Yes
+R221,Weekly,Supply chain delays,10-25%,No,"Yes, provide an option to order",Yes
+R222,Weekly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R223,Daily,Supply chain delays,26-50%,No,"Yes, provide an option to order",Yes
+R224,Daily,Insufficient demand forecasting,<10%,No,"Yes, suggest similar models",Yes
+R225,Rarely,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R226,Daily,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R227,Daily,Manufacturer limitations,10-25%,No,"Yes, suggest similar models",Yes
+R228,Daily,Supply chain delays,10-25%,Yes,No,Yes
+R229,Weekly,Supply chain delays,<10%,No,"Yes, suggest similar models",No
+R230,Daily,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",No
+R231,Weekly,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",Yes
+R232,Weekly,Other,10-25%,No,"Yes, suggest similar models",Yes
+R233,Daily,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R234,Daily,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R235,Daily,Other,10-25%,Yes,"Yes, provide an option to order",Yes
+R236,Daily,Manufacturer limitations,<10%,No,"Yes, suggest similar models",Yes
+R237,Monthly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R238,Weekly,Manufacturer limitations,26-50%,Yes,"Yes, suggest similar models",Yes
+R239,Weekly,Manufacturer limitations,26-50%,Yes,"Yes, provide an option to order",Yes
+R240,Rarely,Insufficient demand forecasting,26-50%,No,"Yes, suggest similar models",Yes
+R241,Rarely,Insufficient demand forecasting,<10%,Yes,"Yes, suggest similar models",No
+R242,Weekly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R243,Daily,Supply chain delays,10-25%,Yes,"Yes, provide an option to order",Yes
+R244,Weekly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R245,Weekly,Supply chain delays,<10%,Yes,No,No
+R246,Monthly,Manufacturer limitations,<10%,Yes,"Yes, provide an option to order",Yes
+R247,Weekly,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R248,Daily,Insufficient demand forecasting,<10%,Yes,"Yes, suggest similar models",Yes
+R249,Weekly,Supply chain delays,10-25%,Yes,No,Yes
+R250,Weekly,Insufficient demand forecasting,10-25%,No,"Yes, suggest similar models",No
+R251,Rarely,Insufficient demand forecasting,<10%,Yes,No,Yes
+R252,Weekly,Manufacturer limitations,26-50%,Yes,No,Yes
+R253,Weekly,Manufacturer limitations,26-50%,Yes,No,Yes
+R254,Weekly,Insufficient demand forecasting,>50%,Yes,"Yes, suggest similar models",Yes
+R255,Daily,Supply chain delays,>50%,No,"Yes, provide an option to order",No
+R256,Daily,Supply chain delays,26-50%,No,"Yes, suggest similar models",No
+R257,Monthly,Supply chain delays,>50%,No,No,No
+R258,Daily,Other,26-50%,Yes,"Yes, provide an option to order",Yes
+R259,Weekly,Supply chain delays,26-50%,Yes,"Yes, provide an option to order",No
+R260,Daily,Manufacturer limitations,26-50%,No,"Yes, suggest similar models",No
+R261,Daily,Manufacturer limitations,26-50%,Yes,"Yes, suggest similar models",Yes
+R262,Rarely,Insufficient demand forecasting,>50%,Yes,"Yes, provide an option to order",Yes
+R263,Rarely,Supply chain delays,10-25%,Yes,"Yes, provide an option to order",Yes
+R264,Daily,Supply chain delays,26-50%,No,"Yes, suggest similar models",Yes
+R265,Weekly,Supply chain delays,<10%,No,No,No
+R266,Weekly,Other,26-50%,Yes,"Yes, suggest similar models",Yes
+R267,Weekly,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R268,Daily,Supply chain delays,26-50%,No,"Yes, suggest similar models",No
+R269,Weekly,Manufacturer limitations,10-25%,No,"Yes, provide an option to order",Yes
+R270,Weekly,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R271,Daily,Manufacturer limitations,<10%,No,"Yes, suggest similar models",Yes
+R272,Daily,Supply chain delays,<10%,No,"Yes, provide an option to order",Yes
+R273,Monthly,Supply chain delays,10-25%,No,No,Yes
+R274,Rarely,Supply chain delays,10-25%,Yes,No,Yes
+R275,Daily,Manufacturer limitations,10-25%,No,No,Yes
+R276,Weekly,Supply chain delays,10-25%,No,"Yes, provide an option to order",No
+R277,Weekly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R278,Rarely,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R279,Weekly,Insufficient demand forecasting,<10%,Yes,"Yes, provide an option to order",No
+R280,Daily,Supply chain delays,>50%,No,"Yes, suggest similar models",Yes
+R281,Weekly,Other,10-25%,Yes,No,Yes
+R282,Daily,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R283,Monthly,Manufacturer limitations,<10%,No,"Yes, suggest similar models",Yes
+R284,Daily,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R285,Weekly,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",Yes
+R286,Weekly,Manufacturer limitations,26-50%,Yes,No,No
+R287,Rarely,Insufficient demand forecasting,<10%,Yes,"Yes, provide an option to order",Yes
+R288,Weekly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R289,Weekly,Manufacturer limitations,26-50%,No,"Yes, provide an option to order",Yes
+R290,Weekly,Manufacturer limitations,10-25%,No,No,Yes
+R291,Daily,Other,26-50%,No,"Yes, suggest similar models",Yes
+R292,Monthly,Insufficient demand forecasting,26-50%,Yes,"Yes, suggest similar models",No
+R293,Weekly,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",Yes
+R294,Weekly,Insufficient demand forecasting,10-25%,No,"Yes, suggest similar models",Yes
+R295,Weekly,Supply chain delays,<10%,No,"Yes, suggest similar models",Yes
+R296,Weekly,Other,<10%,No,"Yes, suggest similar models",Yes
+R297,Rarely,Supply chain delays,<10%,Yes,"Yes, provide an option to order",No
+R298,Weekly,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R299,Weekly,Manufacturer limitations,<10%,Yes,"Yes, provide an option to order",Yes
+R300,Monthly,Manufacturer limitations,26-50%,No,"Yes, provide an option to order",Yes
+R301,Daily,Other,<10%,No,"Yes, suggest similar models",Yes
+R302,Weekly,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R303,Daily,Manufacturer limitations,26-50%,Yes,"Yes, suggest similar models",Yes
+R304,Monthly,Insufficient demand forecasting,>50%,No,"Yes, provide an option to order",Yes
+R305,Daily,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",Yes
+R306,Daily,Supply chain delays,<10%,No,"Yes, suggest similar models",No
+R307,Weekly,Manufacturer limitations,>50%,No,"Yes, suggest similar models",Yes
+R308,Weekly,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R309,Rarely,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R310,Monthly,Supply chain delays,26-50%,No,No,No
+R311,Weekly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R312,Rarely,Supply chain delays,<10%,Yes,"Yes, provide an option to order",Yes
+R313,Monthly,Manufacturer limitations,<10%,No,"Yes, suggest similar models",Yes
+R314,Monthly,Insufficient demand forecasting,<10%,Yes,No,Yes
+R315,Daily,Insufficient demand forecasting,26-50%,No,"Yes, provide an option to order",Yes
+R316,Weekly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R317,Weekly,Insufficient demand forecasting,<10%,No,"Yes, provide an option to order",Yes
+R318,Weekly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R319,Weekly,Manufacturer limitations,26-50%,No,No,No
+R320,Daily,Insufficient demand forecasting,>50%,Yes,"Yes, suggest similar models",No
+R321,Weekly,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R322,Rarely,Manufacturer limitations,10-25%,No,"Yes, provide an option to order",Yes
+R323,Rarely,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R324,Rarely,Insufficient demand forecasting,10-25%,No,"Yes, suggest similar models",Yes
+R325,Weekly,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R326,Weekly,Manufacturer limitations,>50%,No,"Yes, suggest similar models",Yes
+R327,Daily,Supply chain delays,26-50%,No,"Yes, suggest similar models",Yes
+R328,Daily,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",Yes
+R329,Daily,Supply chain delays,26-50%,Yes,"Yes, provide an option to order",Yes
+R330,Weekly,Supply chain delays,26-50%,No,"Yes, provide an option to order",Yes
+R331,Monthly,Manufacturer limitations,<10%,No,No,Yes
+R332,Daily,Insufficient demand forecasting,>50%,Yes,"Yes, provide an option to order",Yes
+R333,Weekly,Insufficient demand forecasting,10-25%,No,"Yes, suggest similar models",Yes
+R334,Weekly,Insufficient demand forecasting,26-50%,No,No,Yes
+R335,Monthly,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",No
+R336,Weekly,Manufacturer limitations,26-50%,No,No,Yes
+R337,Rarely,Supply chain delays,<10%,Yes,"Yes, suggest similar models",No
+R338,Monthly,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R339,Daily,Insufficient demand forecasting,26-50%,Yes,"Yes, provide an option to order",Yes
+R340,Weekly,Insufficient demand forecasting,<10%,No,"Yes, provide an option to order",Yes
+R341,Monthly,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",Yes
+R342,Daily,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",Yes
+R343,Weekly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R344,Weekly,Insufficient demand forecasting,10-25%,Yes,"Yes, provide an option to order",Yes
+R345,Daily,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R346,Daily,Insufficient demand forecasting,10-25%,Yes,"Yes, suggest similar models",Yes
+R347,Daily,Insufficient demand forecasting,<10%,No,"Yes, suggest similar models",No
+R348,Daily,Other,26-50%,No,"Yes, provide an option to order",Yes
+R349,Daily,Supply chain delays,10-25%,No,"Yes, provide an option to order",Yes
+R350,Weekly,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R351,Weekly,Other,10-25%,Yes,"Yes, suggest similar models",Yes
+R352,Weekly,Manufacturer limitations,<10%,No,No,No
+R353,Weekly,Manufacturer limitations,10-25%,No,"Yes, suggest similar models",Yes
+R354,Weekly,Other,>50%,No,"Yes, suggest similar models",Yes
+R355,Rarely,Other,>50%,Yes,No,Yes
+R356,Rarely,Other,10-25%,No,No,Yes
+R357,Rarely,Supply chain delays,10-25%,No,"Yes, suggest similar models",No
+R358,Weekly,Manufacturer limitations,<10%,No,No,No
+R359,Monthly,Insufficient demand forecasting,26-50%,No,"Yes, suggest similar models",Yes
+R360,Monthly,Supply chain delays,<10%,No,"Yes, provide an option to order",Yes
+R361,Monthly,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R362,Monthly,Insufficient demand forecasting,<10%,Yes,"Yes, provide an option to order",Yes
+R363,Daily,Insufficient demand forecasting,<10%,Yes,"Yes, provide an option to order",Yes
+R364,Weekly,Insufficient demand forecasting,<10%,No,No,Yes
+R365,Weekly,Insufficient demand forecasting,10-25%,No,"Yes, suggest similar models",Yes
+R366,Monthly,Manufacturer limitations,<10%,Yes,No,No
+R367,Weekly,Insufficient demand forecasting,26-50%,No,No,Yes
+R368,Rarely,Insufficient demand forecasting,10-25%,No,"Yes, suggest similar models",Yes
+R369,Weekly,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",Yes
+R370,Weekly,Insufficient demand forecasting,<10%,Yes,No,Yes
+R371,Weekly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R372,Rarely,Manufacturer limitations,26-50%,Yes,"Yes, suggest similar models",Yes
+R373,Weekly,Insufficient demand forecasting,<10%,Yes,"Yes, provide an option to order",Yes
+R374,Rarely,Insufficient demand forecasting,26-50%,Yes,"Yes, provide an option to order",Yes
+R375,Weekly,Insufficient demand forecasting,<10%,No,No,Yes
+R376,Daily,Other,>50%,Yes,"Yes, provide an option to order",Yes
+R377,Weekly,Insufficient demand forecasting,10-25%,No,No,Yes
+R378,Weekly,Other,10-25%,Yes,"Yes, suggest similar models",No
+R379,Weekly,Insufficient demand forecasting,>50%,No,"Yes, provide an option to order",Yes
+R380,Daily,Manufacturer limitations,<10%,Yes,"Yes, provide an option to order",No
+R381,Monthly,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R382,Weekly,Supply chain delays,26-50%,Yes,"Yes, provide an option to order",Yes
+R383,Weekly,Supply chain delays,26-50%,No,No,Yes
+R384,Weekly,Manufacturer limitations,<10%,Yes,No,Yes
+R385,Weekly,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R386,Monthly,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R387,Monthly,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R388,Daily,Insufficient demand forecasting,<10%,No,"Yes, provide an option to order",Yes
+R389,Daily,Supply chain delays,10-25%,Yes,"Yes, provide an option to order",Yes
+R390,Daily,Supply chain delays,10-25%,No,"Yes, suggest similar models",No
+R391,Weekly,Other,<10%,Yes,"Yes, provide an option to order",Yes
+R392,Weekly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",No
+R393,Monthly,Manufacturer limitations,<10%,No,"Yes, provide an option to order",Yes
+R394,Weekly,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R395,Monthly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R396,Daily,Insufficient demand forecasting,10-25%,Yes,"Yes, provide an option to order",No
+R397,Weekly,Manufacturer limitations,26-50%,Yes,"Yes, suggest similar models",Yes
+R398,Weekly,Supply chain delays,>50%,Yes,"Yes, suggest similar models",Yes
+R399,Weekly,Insufficient demand forecasting,26-50%,No,"Yes, provide an option to order",Yes
+R400,Monthly,Insufficient demand forecasting,>50%,Yes,"Yes, suggest similar models",Yes
+R401,Weekly,Insufficient demand forecasting,<10%,Yes,"Yes, suggest similar models",Yes
+R402,Weekly,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R403,Monthly,Supply chain delays,10-25%,No,No,No
+R404,Monthly,Manufacturer limitations,10-25%,No,"Yes, suggest similar models",Yes
+R405,Daily,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R406,Monthly,Manufacturer limitations,26-50%,Yes,"Yes, suggest similar models",No
+R407,Daily,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R408,Weekly,Supply chain delays,10-25%,No,"Yes, suggest similar models",No
+R409,Weekly,Manufacturer limitations,<10%,Yes,No,Yes
+R410,Rarely,Insufficient demand forecasting,<10%,Yes,"Yes, suggest similar models",Yes
+R411,Daily,Supply chain delays,26-50%,No,"Yes, suggest similar models",Yes
+R412,Daily,Insufficient demand forecasting,>50%,No,"Yes, suggest similar models",Yes
+R413,Monthly,Other,26-50%,Yes,No,Yes
+R414,Weekly,Manufacturer limitations,26-50%,Yes,No,Yes
+R415,Weekly,Insufficient demand forecasting,10-25%,No,No,Yes
+R416,Daily,Other,<10%,Yes,"Yes, suggest similar models",No
+R417,Weekly,Supply chain delays,<10%,No,No,Yes
+R418,Weekly,Manufacturer limitations,26-50%,No,"Yes, provide an option to order",Yes
+R419,Weekly,Insufficient demand forecasting,26-50%,Yes,"Yes, suggest similar models",Yes
+R420,Monthly,Insufficient demand forecasting,<10%,Yes,"Yes, provide an option to order",Yes
+R421,Daily,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R422,Rarely,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",No
+R423,Monthly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R424,Monthly,Insufficient demand forecasting,10-25%,Yes,"Yes, provide an option to order",No
+R425,Rarely,Insufficient demand forecasting,10-25%,No,"Yes, suggest similar models",Yes
+R426,Weekly,Insufficient demand forecasting,<10%,Yes,"Yes, suggest similar models",Yes
+R427,Daily,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
+R428,Daily,Supply chain delays,10-25%,Yes,"Yes, provide an option to order",No
+R429,Weekly,Supply chain delays,>50%,No,"Yes, provide an option to order",Yes
+R430,Rarely,Manufacturer limitations,10-25%,Yes,No,No
+R431,Weekly,Other,10-25%,Yes,"Yes, suggest similar models",Yes
+R432,Weekly,Insufficient demand forecasting,<10%,No,No,No
+R433,Monthly,Manufacturer limitations,10-25%,No,No,No
+R434,Monthly,Supply chain delays,>50%,No,"Yes, suggest similar models",No
+R435,Weekly,Manufacturer limitations,10-25%,No,"Yes, provide an option to order",Yes
+R436,Monthly,Supply chain delays,10-25%,No,"Yes, provide an option to order",Yes
+R437,Weekly,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R438,Daily,Insufficient demand forecasting,>50%,No,No,Yes
+R439,Weekly,Insufficient demand forecasting,<10%,Yes,"Yes, suggest similar models",Yes
+R440,Weekly,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",Yes
+R441,Weekly,Other,10-25%,Yes,"Yes, suggest similar models",Yes
+R442,Daily,Manufacturer limitations,>50%,No,"Yes, provide an option to order",No
+R443,Weekly,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",Yes
+R444,Weekly,Other,10-25%,Yes,No,Yes
+R445,Monthly,Insufficient demand forecasting,<10%,No,"Yes, suggest similar models",Yes
+R446,Monthly,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R447,Daily,Supply chain delays,<10%,No,"Yes, suggest similar models",Yes
+R448,Daily,Supply chain delays,<10%,No,"Yes, provide an option to order",Yes
+R449,Weekly,Supply chain delays,10-25%,No,No,No
+R450,Weekly,Manufacturer limitations,26-50%,No,"Yes, suggest similar models",Yes
+R451,Monthly,Insufficient demand forecasting,<10%,No,"Yes, suggest similar models",Yes
+R452,Monthly,Insufficient demand forecasting,<10%,No,No,Yes
+R453,Daily,Supply chain delays,10-25%,Yes,"Yes, provide an option to order",Yes
+R454,Weekly,Supply chain delays,<10%,Yes,"Yes, suggest similar models",Yes
+R455,Daily,Manufacturer limitations,>50%,Yes,"Yes, suggest similar models",No
+R456,Rarely,Insufficient demand forecasting,10-25%,Yes,No,Yes
+R457,Monthly,Insufficient demand forecasting,<10%,No,"Yes, suggest similar models",No
+R458,Weekly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",No
+R459,Daily,Supply chain delays,26-50%,Yes,"Yes, provide an option to order",Yes
+R460,Weekly,Manufacturer limitations,10-25%,No,"Yes, provide an option to order",No
+R461,Weekly,Other,<10%,No,"Yes, provide an option to order",Yes
+R462,Daily,Other,>50%,Yes,No,Yes
+R463,Daily,Manufacturer limitations,<10%,Yes,"Yes, suggest similar models",Yes
+R464,Weekly,Other,10-25%,No,"Yes, suggest similar models",Yes
+R465,Daily,Manufacturer limitations,26-50%,No,"Yes, provide an option to order",No
+R466,Rarely,Supply chain delays,10-25%,No,"Yes, provide an option to order",No
+R467,Daily,Supply chain delays,26-50%,Yes,"Yes, suggest similar models",No
+R468,Daily,Insufficient demand forecasting,26-50%,Yes,"Yes, provide an option to order",Yes
+R469,Weekly,Supply chain delays,10-25%,Yes,"Yes, provide an option to order",Yes
+R470,Monthly,Manufacturer limitations,<10%,Yes,"Yes, provide an option to order",Yes
+R471,Daily,Supply chain delays,<10%,Yes,"Yes, provide an option to order",Yes
+R472,Monthly,Manufacturer limitations,<10%,Yes,No,Yes
+R473,Weekly,Insufficient demand forecasting,26-50%,Yes,No,Yes
+R474,Daily,Supply chain delays,10-25%,No,"Yes, provide an option to order",Yes
+R475,Daily,Insufficient demand forecasting,<10%,Yes,"Yes, provide an option to order",Yes
+R476,Weekly,Manufacturer limitations,10-25%,No,"Yes, suggest similar models",Yes
+R477,Daily,Supply chain delays,<10%,No,No,No
+R478,Monthly,Insufficient demand forecasting,10-25%,No,"Yes, provide an option to order",Yes
+R479,Daily,Supply chain delays,>50%,Yes,"Yes, provide an option to order",Yes
+R480,Monthly,Other,<10%,No,"Yes, provide an option to order",Yes
+R481,Weekly,Supply chain delays,>50%,Yes,"Yes, suggest similar models",Yes
+R482,Weekly,Other,10-25%,Yes,"Yes, suggest similar models",Yes
+R483,Daily,Manufacturer limitations,10-25%,No,"Yes, suggest similar models",Yes
+R484,Daily,Supply chain delays,10-25%,No,"Yes, suggest similar models",Yes
+R485,Daily,Manufacturer limitations,10-25%,Yes,"Yes, suggest similar models",No
+R486,Weekly,Supply chain delays,<10%,No,"Yes, suggest similar models",Yes
+R487,Monthly,Manufacturer limitations,10-25%,No,"Yes, suggest similar models",Yes
+R488,Monthly,Manufacturer limitations,>50%,Yes,"Yes, suggest similar models",Yes
+R489,Weekly,Supply chain delays,10-25%,Yes,No,Yes
+R490,Daily,Manufacturer limitations,10-25%,No,"Yes, suggest similar models",Yes
+R491,Monthly,Supply chain delays,10-25%,Yes,No,No
+R492,Weekly,Manufacturer limitations,10-25%,No,"Yes, provide an option to order",No
+R493,Daily,Manufacturer limitations,<10%,Yes,"Yes, provide an option to order",Yes
+R494,Daily,Supply chain delays,26-50%,Yes,"Yes, provide an option to order",No
+R495,Daily,Insufficient demand forecasting,26-50%,No,"Yes, suggest similar models",Yes
+R496,Monthly,Manufacturer limitations,<10%,No,"Yes, suggest similar models",No
+R497,Weekly,Manufacturer limitations,26-50%,Yes,No,Yes
+R498,Weekly,Manufacturer limitations,10-25%,Yes,"Yes, provide an option to order",Yes
+R499,Weekly,Manufacturer limitations,>50%,Yes,No,No
+R500,Monthly,Supply chain delays,10-25%,Yes,"Yes, suggest similar models",Yes
